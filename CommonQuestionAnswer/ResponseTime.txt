@@ -1,4 +1,0 @@
-POE's response time:16.941846132278442
-ChatGPT's response time:9.365521669387817
-Bing's response time:28.253976106643677
-Bing's response time:6.073127031326294

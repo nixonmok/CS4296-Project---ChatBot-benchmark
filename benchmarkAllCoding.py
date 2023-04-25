@@ -79,5 +79,5 @@ open("codingQuestionAnswer/BardAnswer.py","w").write(bard_answer['content'])
 string_response_time += f"Bing's response time:{time.time()-start}\n"
 #bard end
 
-open("CodingQuestionAnswer/ResponseTime.txt","w").write(string_response_time)
+open("codingQuestionAnswer/ResponseTime.txt","w").write(string_response_time)
 print(string_response_time)
