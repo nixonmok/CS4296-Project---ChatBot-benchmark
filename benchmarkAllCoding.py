@@ -66,7 +66,7 @@ async def main():
 
 bing_answer,bing_response_time = asyncio.run(main())
 open("codingQuestionAnswer/BingAnswer.py","w").write(bing_answer)
-string_response_time += f"Bing's response time:{time.time()-start}\n"
+string_response_time += f"Bing's response time:{bing_response_time}\n"
 #bing ai chat end
 
 #google bard
