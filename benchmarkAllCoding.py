@@ -17,7 +17,7 @@ poe_client = poe.Client(POE_KEY)
 #capybara = Sage
 start = time.time()
 poe_answer = ""
-for chunk in poe_client.send_message("capybara", QUESTION):
+for chunk in poe_client.send_message("capybara", QUESTION): 
     pass
 poe_answer = chunk["text"]
 print(poe_answer)

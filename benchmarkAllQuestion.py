@@ -6,6 +6,8 @@ import openai
 import poe
 import sys
 
+# IDEA OF BOTH FILES: 1.ASK 2.GET ANSWER 3.MEASURE THE TIME RESPONSE 4.PUT THE RESULTS TO TXT FILE
+
 args = sys.argv
 QUESTION = args[1]
 POE_KEY = "POE KEY"
