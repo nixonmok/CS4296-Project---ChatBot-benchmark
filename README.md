@@ -18,7 +18,9 @@ This repository contains the software artifact of the project by Group 8, the ma
 ## Environment
 
 - Python 3.10.6
-
+- Ubuntu 20.04/
+- Windows/MacOS (if you want to run it in local machine)
+- Network: United States
 ## Setup
 the following tutorial is run on **Unix**, if you are using **Windows**, you can use **mobaXTerm** to connect the instance via ssh, here is the [tutorial](https://sites.google.com/sunke.info/sunkemedia/hosting-service/how-to-connect-to-aws-ec2-instance-using-mobaxterm?pli=1)
 
