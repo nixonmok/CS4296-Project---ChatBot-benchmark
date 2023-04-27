@@ -76,7 +76,7 @@ bard_answer = chatbot.ask(QUESTION)
 print(bard_answer['content'],f'\n----------------Response time: {time.time()-start}')
 
 open("codingQuestionAnswer/BardAnswer.py","w").write(bard_answer['content'])
-string_response_time += f"Bing's response time:{time.time()-start}\n"
+string_response_time += f"Bard's response time:{time.time()-start}\n"
 #bard end
 
 open("codingQuestionAnswer/ResponseTime.txt","w").write(string_response_time)
