@@ -30,8 +30,20 @@ poe_answer = chunk["text"]
 print(poe_answer)
 print(f"\nresponse time:{time.time()-start}")
 
-string_answers += f"POE's answer:\n{poe_answer}\n----------------------\n"
-string_response_time += f"POE's response time:{time.time()-start}\n"
+string_answers += f"POE Sage's answer:\n{poe_answer}\n----------------------\n"
+string_response_time += f"POE Sage's response time:{time.time()-start}\n"
+
+#a2 = claude
+start = time.time()
+poe_answer = ""
+for chunk in poe_client.send_message("a2", QUESTION):
+    pass
+poe_answer = chunk["text"]
+print(poe_answer)
+print(f"\nresponse time:{time.time()-start}")
+
+string_answers += f"POE Claude's answer:\n{poe_answer}\n----------------------\n"
+string_response_time += f"POE's Claude's response time:{time.time()-start}\n"
 #poe end
 
 #chatGPT3.5

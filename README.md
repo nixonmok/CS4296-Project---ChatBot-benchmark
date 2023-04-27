@@ -22,7 +22,7 @@ This repository contains the software artifact of the project by Group 8, the ma
 ## Setup
 the following tutorial is run on **Unix**, if you are using **Windows**, you can use **mobaXTerm** to connect the instance via ssh, here is the [tutorial](https://sites.google.com/sunke.info/sunkemedia/hosting-service/how-to-connect-to-aws-ec2-instance-using-mobaxterm?pli=1)
 
-**Before start setting up, make sure you downloaded zip file from this project, and replace your keys in both** `benchmarkAllCoding.py` and `benchmarkAllQuestion.py`
+**Before setting up, ensure you have downloaded zip file source from this repository, and replace your keys in both** `benchmarkAllCoding.py` and `benchmarkAllQuestion.py`
 ```python
 POE_KEY = "POE KEY"
 CHATGPT_KEY = "CHATGPT KEY"
