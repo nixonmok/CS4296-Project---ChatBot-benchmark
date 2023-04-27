@@ -35,7 +35,7 @@ the following tutorial is run on **Unix**, if you are using **Windows**, you can
 ![dns](READMEimages/ipv4.png)
 `name` is the target desination in the instance
 5. Back to terminal one, Update the apt using `sudo apt update`
-6. Install unzip using `sudo install unzip`
+6. Install unzip using `sudo apt install unzip`
 7. Unzip the transferred zip file using `unzip {zip file}`
 8. Install pip3 using `sudo apt install python3-pip`
 9. Navigate to the unzipped file using `cd`
@@ -65,4 +65,4 @@ the following tutorial is run on **Unix**, if you are using **Windows**, you can
 
 ## Results
 
-The results will be printed in the console and written to the corresponding files in `codingQuestionAnswer` and `CommonQuestionAnswer`.
+The results will be printed in the **console** and written to the corresponding files in `codingQuestionAnswer` and `CommonQuestionAnswer`.
