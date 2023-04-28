@@ -1,0 +1,24 @@
+Calculate
+
+Primary
+What is the sum of 2 and 3?
+If you have 4 apples and give 2 to your friend, how many apples do you have left?
+-96 ÷ -6 ÷ 8 =
+There are 80 colored papers in total. 25 of them are red papers. What percentage ofthe papers is of the other colors?
+Given the sides of cube A is five times the sides of cube B, find the ratio of thevolume of cube A to the volume of cube B.
+
+Secondary
+What is the derivative of x^3 + 3x^2 + 2x + 1?
+Factorize 9c^2 — 6c + 1.
+If the first five digits and the last two digits of a seven-digit password are formed by a permutation of 1, 3, 5, 7, 9 and a permutation of 2, 8 respectively, how many different seven-digit passwords can be formed?
+The function f is defined by f(x) = 2x^3 + 3x^2 + cx + 8 where c is a constant. In the xy-plane, the graph of f intersects the x-axis at the three points (-4, 0), ( 1/2, 0), and (p, 0). What is the value of c?
+The volume, V, of the right circular cone with radius r and height h, shown below, can be found using the formula V =  1/3πr^2h. A cone-shaped paper cup has a volume of 142 cubic centimeters and a height of 8.5 centimeters. What is the radius, to the nearest centimeter, of the paper cup?
+
+University
+Show that the relation {(a, b)|a = ±b(mod 7)} is an equivalence relation on the set of integers.
+If f(x) = (1-x)^2019, find f′(0).
+Evaluate the Limit limit as x approaches 1 of (x-1)/(|x-1|)
+What is the Laplace transform of sin^2(t)?
+Let A be the set {a, b}.  Find the power set P(A) of A.
+
+

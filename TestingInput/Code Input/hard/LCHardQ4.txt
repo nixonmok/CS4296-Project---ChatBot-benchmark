@@ -1,0 +1,3 @@
+I am going to create my job board website by using HTML, CSS, javascript. Can you generate some HTML for my programming job board website?
+
+Great! I would like to create separate files for my CSS, and Javascript. Can you generate some CSS to go with the HTML you generated?

@@ -1,0 +1,18 @@
+Language
+
+Knowledge
+Presume you are a tutor, and introduce the basic knowledge of cloud computing with terms that are easy-to-understand.
+Briefly describe what AI Chatbot is and how does it work.
+Tell a few essential values for a positive culture in a business firm.
+Determine which of the following ways of sending a password are insecure against replay attack, and explain why. h is a hash function. (a) A → B: username, password (b) A → B: username, h(timestamp, password) (c) A → B: username, timestamp, h(password) (d) A → B: username, h(password), h(timestamp)
+Provide a list of ideas for sample applications that could be used for programming training material. Each item should indicate what type of application it is and how can you build the same.
+Presume you are a cyber security specialist, list and explain a few strategies for protecting this data from malicious actors. You need to include encryption methods, the use of firewall, or creating policies.
+
+
+Translate
+English to Spanish: The boys said that they would give it to us today.
+English to French: It's been a while since he's visited this museum
+English to Chinese: It’s almost May, the weather is getting hotter and summer is coming.
+English to Spanish: Flan is a dessert that is enjoyed in all Latin American countries. It is a custard made with eggs, milk and sugar, and cooked in a circular mold placed in a double boiler. It is traditionally associated with Spain and Spanish food, but the recipe for flan that we know today is the result of the combination of European food with the recipes of Africa and those of the Americas. Actually, there are variations of this dessert served in several European countries, as well as in the Middle East. For this reason, there are recipes for flan made with many delicious things like chocolate, coffee, mango, pineapple, coconut, honey and even rose water. Flan is not just a dessert, however; it can be made with asparagus, cheese or salmon as an appetizer.
+English to French: Claudia is a young Italian woman. She's quite tall, she's a brunette. She's a student. She's a lovely woman, who can sometimes be in a bad mood. She's not very athletic and she likes food a lot, therefore, she's always on a diet. How sad! Her best friends are Sophie and Mary. The three of them are students at Dauphine University. They met in the TGV. It's amazing, isn't it?
+English to Chinese: My good friend is a girl. She is not tall and looks very cute. She is not only smart, but also serious. She likes to go to the library to study, so all her test scores are very good. She is very enthusiastic and always cares about others. If others have difficulties, she will definitely help them solve their problems. She has many hobbies, such as playing football and mountain climbing.
